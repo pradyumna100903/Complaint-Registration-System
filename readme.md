@@ -1,4 +1,4 @@
-# How to run the Complaint Management System (CMS) Project
+# How to run the Complaint Registration and Validation System (CMS) Project
 
 1. Download the zip file
 
