@@ -1,4 +1,4 @@
-# How to run the Complaint Registration and Validation System (CMS) Project
+# How to run the Complaint Registration System Project
 
 ## Complaint Registation System is the Ultimate Solution for all the Employees/Students, Who are facing some or the other problems in their working environment and want to address is to the Administration Authority.  
 ### Follow the Below Steps------
